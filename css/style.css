@@ -1,0 +1,34 @@
+/* service section start */
+.service{
+	padding: 100px 0px;
+}
+.container{
+	margin: 0 auto;
+	width: 90%;
+}
+.s_content{
+	text-align: center;	
+}
+.s_content h1{
+	font-size: 36px;
+	line-height:1.7em;
+	font-weight:700;
+	color: #3d2514;
+	text-transform: capitalize;
+	letter-spacing: 1px;
+}
+.s_content p{
+	font-size: 14px;
+	line-height:1.2em;
+	font-weight:400;
+	color: #000;
+	margin: 0px 0px 65px;
+}
+
+.box{
+	margin-bottom: 10px;
+	height: 100px;
+	background-color: #00ff66;
+}
+/* service section end */
+
